@@ -1,7 +1,7 @@
 {"version_code":452257,"content":"
 <p>تحديث 6.50</p>
 
-<li>  حل مشكلة الثيمات </li>
+<li>  حل مشكلة الثيمات واصلاحات اخرى </li>
 
 ","url":"http://plus-mod.com/whatsapp/"
 }
