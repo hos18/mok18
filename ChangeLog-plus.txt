@@ -1,7 +1,7 @@
-{"version_code":452171,"content":"
-<p>تحديث 6.40</p>
+{"version_code":452257,"content":"
+<p>تحديث 6.50</p>
 
-<li>التحديث لنسخة الماركت </li>
+<li>  حل مشكلة الثيمات </li>
 
-","url":"http://plus-mod.com/واتساب-بلس-اخر-تحديث-2018/"
+","url":"http://plus-mod.com/whatsapp/"
 }
