@@ -1,4 +1,4 @@
-{"version_code":'452559',"content":"
+{"version_code":'452402',"content":"
 <p>تحديث 6.85</p>
 
 <li>التحديث لنسخة الماركت </li>
