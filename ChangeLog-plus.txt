@@ -1,4 +1,4 @@
-{"version_code":452646,"content":"
+{"version_code":452648,"content":"
 <p>تحديث 7.25</p>
 
 <li>التحديث لنسخة الماركت </li>
